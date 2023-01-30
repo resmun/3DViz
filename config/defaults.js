@@ -27,7 +27,7 @@ define({
   //Example of a template specific property. If your template had several color schemes
   //you could define the default here and setup configuration settings to allow users to choose a different
   //color theme.
-  "sharinghost": location.protocol + "//" + "www.arcgis.com",
+  "sharinghost": location.protocol + "//" + "zaron.maps.arcgis.com",
   "units": null,
   "helperServices": {
     "geometry": {
